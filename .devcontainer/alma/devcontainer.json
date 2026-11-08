@@ -2,7 +2,7 @@
   "name": "Alma Linux",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "alma"
+    "BOOT": "https://zenlayer.dl.sourceforge.net/project/androidtv-x86-64/ATV13/ATV13-x86_64-MRDTeam-V24-250620.iso?viasf=1&fid=b631f10cb231f5bd&e=1794194135&st=lO15aowPMQ7qn1QYYFVhWw"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
